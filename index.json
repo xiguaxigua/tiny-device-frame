@@ -1,0 +1,3878 @@
+[
+  {
+    "relPath": "Computers/Apple Macbook Air/11\"/Device with shadow/Apple Macbook Air 11\".png",
+    "category": "Computers",
+    "device": "Apple Macbook Air",
+    "frame": {
+      "top": 87,
+      "left": 299,
+      "bottom": 855,
+      "right": 1665,
+      "width": 1366,
+      "height": 768
+    },
+    "name": "Apple Macbook Air 11\"",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["apple", "macbook", "air", "11\""]
+  },
+  {
+    "relPath": "Computers/Apple Macbook Air/11\"/Device/Apple Macbook Air 11\".png",
+    "category": "Computers",
+    "device": "Apple Macbook Air",
+    "frame": {
+      "top": 87,
+      "left": 299,
+      "bottom": 855,
+      "right": 1665,
+      "width": 1366,
+      "height": 768
+    },
+    "name": "Apple Macbook Air 11\"",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["apple", "macbook", "air", "11\""]
+  },
+  {
+    "relPath": "Computers/Apple Macbook Air/13\"/Device with shadow/Apple Macbook Air 13\".png",
+    "category": "Computers",
+    "device": "Apple Macbook Air",
+    "frame": {
+      "top": 80,
+      "left": 262,
+      "bottom": 980,
+      "right": 1702,
+      "width": 1440,
+      "height": 900
+    },
+    "name": "Apple Macbook Air 13\"",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["apple", "macbook", "air", "13\""]
+  },
+  {
+    "relPath": "Computers/Apple Macbook Air/13\"/Device/Apple Macbook Air 13\".png",
+    "category": "Computers",
+    "device": "Apple Macbook Air",
+    "frame": {
+      "top": 80,
+      "left": 262,
+      "bottom": 980,
+      "right": 1702,
+      "width": 1440,
+      "height": 900
+    },
+    "name": "Apple Macbook Air 13\"",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["apple", "macbook", "air", "13\""]
+  },
+  {
+    "relPath": "Computers/Apple Macbook Pro/13\"/Device with shadow/Apple Macbook Pro 13\".png",
+    "category": "Computers",
+    "device": "Apple Macbook Pro",
+    "frame": {
+      "top": 136,
+      "left": 427,
+      "bottom": 1736,
+      "right": 2987,
+      "width": 2560,
+      "height": 1600
+    },
+    "name": "Apple Macbook Pro 13\"",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "macbook", "pro", "13\""]
+  },
+  {
+    "relPath": "Computers/Apple Macbook Pro/13\"/Device/Apple Macbook Pro 13\".png",
+    "category": "Computers",
+    "device": "Apple Macbook Pro",
+    "frame": {
+      "top": 136,
+      "left": 427,
+      "bottom": 1736,
+      "right": 2987,
+      "width": 2560,
+      "height": 1600
+    },
+    "name": "Apple Macbook Pro 13\"",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "macbook", "pro", "13\""]
+  },
+  {
+    "relPath": "Computers/Apple Macbook Pro/15\"/Device with shadow/Apple Macbook Pro 15\".png",
+    "category": "Computers",
+    "device": "Apple Macbook Pro",
+    "frame": {
+      "top": 133,
+      "left": 452,
+      "bottom": 1934,
+      "right": 3333,
+      "width": 2881,
+      "height": 1801
+    },
+    "name": "Apple Macbook Pro 15\"",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "macbook", "pro", "15\""]
+  },
+  {
+    "relPath": "Computers/Apple Macbook Pro/15\"/Device/Apple Macbook Pro 15\".png",
+    "category": "Computers",
+    "device": "Apple Macbook Pro",
+    "frame": {
+      "top": 133,
+      "left": 452,
+      "bottom": 1934,
+      "right": 3333,
+      "width": 2881,
+      "height": 1801
+    },
+    "name": "Apple Macbook Pro 15\"",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "macbook", "pro", "15\""]
+  },
+  {
+    "relPath": "Computers/Apple Macbook/Device with Shadow/Apple-Macbook-Gold.png",
+    "category": "Computers",
+    "device": "Apple Macbook",
+    "frame": {
+      "top": 128,
+      "left": 380,
+      "bottom": 1568,
+      "right": 2684,
+      "width": 2304,
+      "height": 1440
+    },
+    "name": "Apple-Macbook-Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple-macbook-gold"]
+  },
+  {
+    "relPath": "Computers/Apple Macbook/Device with Shadow/Apple-Macbook-Space-Grey.png",
+    "category": "Computers",
+    "device": "Apple Macbook",
+    "frame": {
+      "top": 128,
+      "left": 380,
+      "bottom": 1568,
+      "right": 2684,
+      "width": 2304,
+      "height": 1440
+    },
+    "name": "Apple-Macbook-Space-Grey",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple-macbook-space-grey"]
+  },
+  {
+    "relPath": "Computers/Apple Macbook/Device/Apple-Macbook-Gold.png",
+    "category": "Computers",
+    "device": "Apple Macbook",
+    "frame": {
+      "top": 128,
+      "left": 380,
+      "bottom": 1568,
+      "right": 2684,
+      "width": 2304,
+      "height": 1440
+    },
+    "name": "Apple-Macbook-Gold",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple-macbook-gold"]
+  },
+  {
+    "relPath": "Computers/Apple Macbook/Device/Apple-Macbook-Space-Grey.png",
+    "category": "Computers",
+    "device": "Apple Macbook",
+    "frame": {
+      "top": 128,
+      "left": 380,
+      "bottom": 1568,
+      "right": 2684,
+      "width": 2304,
+      "height": 1440
+    },
+    "name": "Apple-Macbook-Space-Grey",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple-macbook-space-grey"]
+  },
+  {
+    "relPath": "Computers/Apple iMac Retina/Device with shadow/Apple iMac Retina.png",
+    "category": "Computers",
+    "device": "Apple iMac Retina",
+    "frame": {
+      "top": 241,
+      "left": 228,
+      "bottom": 3121,
+      "right": 4097,
+      "width": 3869,
+      "height": 2880
+    },
+    "name": "Apple iMac Retina",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "imac", "retina"]
+  },
+  {
+    "relPath": "Computers/Apple iMac Retina/Device/Apple iMac Retina.png",
+    "category": "Computers",
+    "device": "Apple iMac Retina",
+    "frame": {
+      "top": 241,
+      "left": 228,
+      "bottom": 3121,
+      "right": 4097,
+      "width": 3869,
+      "height": 2880
+    },
+    "name": "Apple iMac Retina",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "imac", "retina"]
+  },
+  {
+    "relPath": "Computers/Apple iMac/Device with shadow/Apple iMac.png",
+    "category": "Computers",
+    "device": "Apple iMac",
+    "frame": {
+      "top": 122,
+      "left": 114,
+      "bottom": 1562,
+      "right": 2674,
+      "width": 2560,
+      "height": 1440
+    },
+    "name": "Apple iMac",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["apple", "imac"]
+  },
+  {
+    "relPath": "Computers/Apple iMac/Device/Apple iMac.png",
+    "category": "Computers",
+    "device": "Apple iMac",
+    "frame": {
+      "top": 122,
+      "left": 114,
+      "bottom": 1562,
+      "right": 2674,
+      "width": 2560,
+      "height": 1440
+    },
+    "name": "Apple iMac",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["apple", "imac"]
+  },
+  {
+    "relPath": "Computers/Dell XPS 13/Device with shadow/Dell XPS 13\".png",
+    "category": "Computers",
+    "device": "Dell XPS 13",
+    "frame": {
+      "top": 62,
+      "left": 317,
+      "bottom": 1862,
+      "right": 3517,
+      "width": 3200,
+      "height": 1800
+    },
+    "name": "Dell XPS 13\"",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["dell", "xps", "13\""]
+  },
+  {
+    "relPath": "Computers/Dell XPS 13/Device/Dell XPS 13\".png",
+    "category": "Computers",
+    "device": "Dell XPS 13",
+    "frame": {
+      "top": 62,
+      "left": 317,
+      "bottom": 1862,
+      "right": 3517,
+      "width": 3200,
+      "height": 1800
+    },
+    "name": "Dell XPS 13\"",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["dell", "xps", "13\""]
+  },
+  {
+    "relPath": "Computers/Dell XPS 15/Device with shadow/Dell XPS 15\".png",
+    "category": "Computers",
+    "device": "Dell XPS 15",
+    "frame": {
+      "top": 0,
+      "left": 0,
+      "bottom": 2687,
+      "right": 4097,
+      "width": 4097,
+      "height": 2687
+    },
+    "name": "Dell XPS 15\"",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["dell", "xps", "15\""]
+  },
+  {
+    "relPath": "Computers/Dell XPS 15/Device/Dell XPS 15\".png",
+    "category": "Computers",
+    "device": "Dell XPS 15",
+    "frame": {
+      "top": 0,
+      "left": 0,
+      "bottom": 2646,
+      "right": 4097,
+      "width": 4097,
+      "height": 2646
+    },
+    "name": "Dell XPS 15\"",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["dell", "xps", "15\""]
+  },
+  {
+    "relPath": "Computers/Microsoft Surface Book/Device with shadow/Microsoft Surface Book.png",
+    "category": "Computers",
+    "device": "Microsoft Surface Book",
+    "frame": {
+      "top": 159,
+      "left": 574,
+      "bottom": 2159,
+      "right": 3574,
+      "width": 3000,
+      "height": 2000
+    },
+    "name": "Microsoft Surface Book",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["microsoft", "surface", "book"]
+  },
+  {
+    "relPath": "Computers/Microsoft Surface Book/Device/Microsoft Surface Book.png",
+    "category": "Computers",
+    "device": "Microsoft Surface Book",
+    "frame": {
+      "top": 159,
+      "left": 549,
+      "bottom": 2159,
+      "right": 3549,
+      "width": 3000,
+      "height": 2000
+    },
+    "name": "Microsoft Surface Book",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["microsoft", "surface", "book"]
+  },
+  {
+    "relPath": "Displays/Apple Thunderbolt Display/Device with shadow/Apple Thunderbolt Display.png",
+    "category": "Displays",
+    "device": "Apple Thunderbolt Display",
+    "frame": {
+      "top": 114,
+      "left": 114,
+      "bottom": 1554,
+      "right": 2674,
+      "width": 2560,
+      "height": 1440
+    },
+    "name": "Apple Thunderbolt Display",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["apple", "thunderbolt", "display"]
+  },
+  {
+    "relPath": "Displays/Apple Thunderbolt Display/Device/Apple Thunderbolt Display.png",
+    "category": "Displays",
+    "device": "Apple Thunderbolt Display",
+    "frame": {
+      "top": 114,
+      "left": 114,
+      "bottom": 1554,
+      "right": 2674,
+      "width": 2560,
+      "height": 1440
+    },
+    "name": "Apple Thunderbolt Display",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["apple", "thunderbolt", "display"]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp HD 5K Monitor/Device with shadow/Dell UltraSharp 5K Monitor 27\" 90deg.png",
+    "category": "Displays",
+    "device": "Dell UltraSharp HD 5K Monitor",
+    "frame": {
+      "top": 167,
+      "left": 210,
+      "bottom": 4097,
+      "right": 3090,
+      "width": 2880,
+      "height": 3930
+    },
+    "name": "Dell UltraSharp 5K Monitor 27\" 90deg",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["dell", "ultrasharp", "5k", "monitor", "27\"", "90deg"]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp HD 5K Monitor/Device with shadow/Dell UltraSharp 5K Monitor 27\".png",
+    "category": "Displays",
+    "device": "Dell UltraSharp HD 5K Monitor",
+    "frame": {
+      "top": 178,
+      "left": 167,
+      "bottom": 3058,
+      "right": 4097,
+      "width": 3930,
+      "height": 2880
+    },
+    "name": "Dell UltraSharp 5K Monitor 27\"",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["dell", "ultrasharp", "5k", "monitor", "27\""]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp HD 5K Monitor/Device/Dell UltraSharp 5K Monitor 27\" 90deg.png",
+    "category": "Displays",
+    "device": "Dell UltraSharp HD 5K Monitor",
+    "frame": {
+      "top": 167,
+      "left": 210,
+      "bottom": 4097,
+      "right": 3090,
+      "width": 2880,
+      "height": 3930
+    },
+    "name": "Dell UltraSharp 5K Monitor 27\" 90deg",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["dell", "ultrasharp", "5k", "monitor", "27\"", "90deg"]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp HD 5K Monitor/Device/Dell UltraSharp 5K Monitor 27\".png",
+    "category": "Displays",
+    "device": "Dell UltraSharp HD 5K Monitor",
+    "frame": {
+      "top": 178,
+      "left": 167,
+      "bottom": 3058,
+      "right": 4097,
+      "width": 3930,
+      "height": 2880
+    },
+    "name": "Dell UltraSharp 5K Monitor 27\"",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["dell", "ultrasharp", "5k", "monitor", "27\""]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp Monitor/24\"/Device with shadow/Dell UltraSharp 24\" 90deg.png",
+    "category": "Displays",
+    "device": "Dell UltraSharp Monitor",
+    "frame": {
+      "top": 27,
+      "left": 69,
+      "bottom": 1947,
+      "right": 1269,
+      "width": 1200,
+      "height": 1920
+    },
+    "name": "Dell UltraSharp 24\" 90deg",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["dell", "ultrasharp", "24\"", "90deg"]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp Monitor/24\"/Device with shadow/Dell UltraSharp 24\".png",
+    "category": "Displays",
+    "device": "Dell UltraSharp Monitor",
+    "frame": {
+      "top": 27,
+      "left": 27,
+      "bottom": 1227,
+      "right": 1947,
+      "width": 1920,
+      "height": 1200
+    },
+    "name": "Dell UltraSharp 24\"",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["dell", "ultrasharp", "24\""]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp Monitor/24\"/Device/Dell UltraSharp 24\" 90deg.png",
+    "category": "Displays",
+    "device": "Dell UltraSharp Monitor",
+    "frame": {
+      "top": 27,
+      "left": 69,
+      "bottom": 1947,
+      "right": 1269,
+      "width": 1200,
+      "height": 1920
+    },
+    "name": "Dell UltraSharp 24\" 90deg",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["dell", "ultrasharp", "24\"", "90deg"]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp Monitor/24\"/Device/Dell UltraSharp 24\".png",
+    "category": "Displays",
+    "device": "Dell UltraSharp Monitor",
+    "frame": {
+      "top": 27,
+      "left": 27,
+      "bottom": 1227,
+      "right": 1947,
+      "width": 1920,
+      "height": 1200
+    },
+    "name": "Dell UltraSharp 24\"",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["dell", "ultrasharp", "24\""]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp Monitor/27\"/Device with shadow/Dell UltraSharp 27\" 90deg.png",
+    "category": "Displays",
+    "device": "Dell UltraSharp Monitor",
+    "frame": {
+      "top": 33,
+      "left": 80,
+      "bottom": 2593,
+      "right": 1520,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Dell UltraSharp 27\" 90deg",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["dell", "ultrasharp", "27\"", "90deg"]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp Monitor/27\"/Device with shadow/Dell UltraSharp 27\".png",
+    "category": "Displays",
+    "device": "Dell UltraSharp Monitor",
+    "frame": {
+      "top": 33,
+      "left": 33,
+      "bottom": 1473,
+      "right": 2593,
+      "width": 2560,
+      "height": 1440
+    },
+    "name": "Dell UltraSharp 27\"",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["dell", "ultrasharp", "27\""]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp Monitor/27\"/Device/Dell UltraSharp 27\" 90deg.png",
+    "category": "Displays",
+    "device": "Dell UltraSharp Monitor",
+    "frame": {
+      "top": 33,
+      "left": 80,
+      "bottom": 2593,
+      "right": 1520,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Dell UltraSharp 27\" 90deg",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["dell", "ultrasharp", "27\"", "90deg"]
+  },
+  {
+    "relPath": "Displays/Dell UltraSharp Monitor/27\"/Device/Dell UltraSharp 27\".png",
+    "category": "Displays",
+    "device": "Dell UltraSharp Monitor",
+    "frame": {
+      "top": 33,
+      "left": 33,
+      "bottom": 1473,
+      "right": 2593,
+      "width": 2560,
+      "height": 1440
+    },
+    "name": "Dell UltraSharp 27\"",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["dell", "ultrasharp", "27\""]
+  },
+  {
+    "relPath": "Displays/Sony W850C/Device with shadow/Snony W850C.png",
+    "category": "Displays",
+    "device": "Sony W850C",
+    "frame": {
+      "top": 14,
+      "left": 12,
+      "bottom": 735,
+      "right": 1292,
+      "width": 1280,
+      "height": 721
+    },
+    "name": "Snony W850C",
+    "pixelRatio": "",
+    "shadow": true,
+    "tags": ["snony", "w850c"]
+  },
+  {
+    "relPath": "Displays/Sony W850C/Device/Sony W850C.png",
+    "category": "Displays",
+    "device": "Sony W850C",
+    "frame": {
+      "top": 14,
+      "left": 12,
+      "bottom": 735,
+      "right": 1292,
+      "width": 1280,
+      "height": 721
+    },
+    "name": "Sony W850C",
+    "pixelRatio": "",
+    "shadow": false,
+    "tags": ["sony", "w850c"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device with Shadow/Apple iPhone 5c Blue.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c Blue",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "5c", "blue"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device with Shadow/Apple iPhone 5c Green.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c Green",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "5c", "green"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device with Shadow/Apple iPhone 5c Red.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c Red",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "5c", "red"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device with Shadow/Apple iPhone 5c White.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c White",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "5c", "white"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device with Shadow/Apple iPhone 5c Yellow.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c Yellow",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "5c", "yellow"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device/Apple iPhone 5c Blue.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c Blue",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "5c", "blue"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device/Apple iPhone 5c Green.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c Green",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "5c", "green"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device/Apple iPhone 5c Red.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c Red",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "5c", "red"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device/Apple iPhone 5c White.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c White",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "5c", "white"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5c/Device/Apple iPhone 5c Yellow.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5c",
+    "frame": {
+      "top": 239,
+      "left": 67,
+      "bottom": 1375,
+      "right": 707,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5c Yellow",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "5c", "yellow"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5s/Device with Shadow/Apple iPhone 5s Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5s",
+    "frame": {
+      "top": 238,
+      "left": 64,
+      "bottom": 1374,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5s Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "5s", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5s/Device with Shadow/Apple iPhone 5s Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5s",
+    "frame": {
+      "top": 238,
+      "left": 64,
+      "bottom": 1374,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5s Silver",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "5s", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5s/Device with Shadow/Apple iPhone 5s Space Gray.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5s",
+    "frame": {
+      "top": 238,
+      "left": 64,
+      "bottom": 1374,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5s Space Gray",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "5s", "space", "gray"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5s/Device/Apple iPhone 5s Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5s",
+    "frame": {
+      "top": 238,
+      "left": 64,
+      "bottom": 1374,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5s Gold",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "5s", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5s/Device/Apple iPhone 5s Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5s",
+    "frame": {
+      "top": 238,
+      "left": 64,
+      "bottom": 1374,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5s Silver",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "5s", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 5s/Device/Apple iPhone 5s Space Gray.png",
+    "category": "Phones",
+    "device": "Apple iPhone 5s",
+    "frame": {
+      "top": 238,
+      "left": 64,
+      "bottom": 1374,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone 5s Space Gray",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "5s", "space", "gray"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s Plus/Device with Shadow/Apple iPhone 6s Plus Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s Plus",
+    "frame": {
+      "top": 379,
+      "left": 102,
+      "bottom": 2587,
+      "right": 1344,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 6s Plus Gold",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["apple", "iphone", "6s", "plus", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s Plus/Device with Shadow/Apple iPhone 6s Plus Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s Plus",
+    "frame": {
+      "top": 379,
+      "left": 102,
+      "bottom": 2587,
+      "right": 1344,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 6s Plus Rose Gold",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["apple", "iphone", "6s", "plus", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s Plus/Device with Shadow/Apple iPhone 6s Plus Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s Plus",
+    "frame": {
+      "top": 379,
+      "left": 102,
+      "bottom": 2587,
+      "right": 1344,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 6s Plus Silver",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["apple", "iphone", "6s", "plus", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s Plus/Device with Shadow/Apple iPhone 6s Plus Space Gray.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s Plus",
+    "frame": {
+      "top": 379,
+      "left": 102,
+      "bottom": 2587,
+      "right": 1344,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 6s Plus Space Gray",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["apple", "iphone", "6s", "plus", "space", "gray"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s Plus/Device/Apple iPhone 6s Plus Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s Plus",
+    "frame": {
+      "top": 379,
+      "left": 102,
+      "bottom": 2587,
+      "right": 1344,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 6s Plus Gold",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "6s", "plus", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s Plus/Device/Apple iPhone 6s Plus Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s Plus",
+    "frame": {
+      "top": 379,
+      "left": 102,
+      "bottom": 2587,
+      "right": 1344,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 6s Plus Rose Gold",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "6s", "plus", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s Plus/Device/Apple iPhone 6s Plus Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s Plus",
+    "frame": {
+      "top": 379,
+      "left": 102,
+      "bottom": 2587,
+      "right": 1344,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 6s Plus Silver",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "6s", "plus", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s Plus/Device/Apple iPhone 6s Plus Space Gray.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s Plus",
+    "frame": {
+      "top": 379,
+      "left": 102,
+      "bottom": 2587,
+      "right": 1344,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 6s Plus Space Gray",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "6s", "plus", "space", "gray"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s/Device with Shadow/Apple iPhone 6s Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 6s Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "6s", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s/Device with Shadow/Apple iPhone 6s Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 6s Rose Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "6s", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s/Device with Shadow/Apple iPhone 6s Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 6s Silver",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "6s", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s/Device with Shadow/Apple iPhone 6s Space Gray.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 6s Space Gray",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "6s", "space", "gray"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s/Device/Apple iPhone 6s Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 6s Gold",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "6s", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s/Device/Apple iPhone 6s Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 6s Rose Gold",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "6s", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s/Device/Apple iPhone 6s Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 6s Silver",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "6s", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 6s/Device/Apple iPhone 6s Space Gray.png",
+    "category": "Phones",
+    "device": "Apple iPhone 6s",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 6s Space Gray",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "6s", "space", "gray"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device with Shadow/Apple iPhone 7 Plus Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Gold",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "plus", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device with Shadow/Apple iPhone 7 Plus Jet Black.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Jet Black",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "plus", "jet", "black"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device with Shadow/Apple iPhone 7 Plus Matte Black.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Matte Black",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "plus", "matte", "black"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device with Shadow/Apple iPhone 7 Plus Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Rose Gold",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "plus", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device with Shadow/Apple iPhone 7 Plus Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Silver",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "plus", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device/Apple iPhone 7 Plus Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Gold",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "plus", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device/Apple iPhone 7 Plus Jet Black.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Jet Black",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "plus", "jet", "black"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device/Apple iPhone 7 Plus Matte Black.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Matte Black",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "plus", "matte", "black"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device/Apple iPhone 7 Plus Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Rose Gold",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "plus", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7 Plus/Device/Apple iPhone 7 Plus Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7 Plus",
+    "frame": {
+      "top": 380,
+      "left": 104,
+      "bottom": 2588,
+      "right": 1346,
+      "width": 1242,
+      "height": 2208
+    },
+    "name": "Apple iPhone 7 Plus Silver",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "plus", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device with Shadow/Apple iPhone 7 Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device with Shadow/Apple iPhone 7 Jet Black.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Jet Black",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "jet", "black"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device with Shadow/Apple iPhone 7 Matte Black.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Matte Black",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "matte", "black"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device with Shadow/Apple iPhone 7 Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Rose Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device with Shadow/Apple iPhone 7 Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Silver",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "iphone", "7", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device/Apple iPhone 7 Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Gold",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device/Apple iPhone 7 Jet Black.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Jet Black",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "jet", "black"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device/Apple iPhone 7 Matte Black.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Matte Black",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "matte", "black"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device/Apple iPhone 7 Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Rose Gold",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone 7/Device/Apple iPhone 7 Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone 7",
+    "frame": {
+      "top": 228,
+      "left": 61,
+      "bottom": 1562,
+      "right": 811,
+      "width": 750,
+      "height": 1334
+    },
+    "name": "Apple iPhone 7 Silver",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "iphone", "7", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone SE/Device with Shadow/Apple iPhone SE Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone SE",
+    "frame": {
+      "top": 237,
+      "left": 64,
+      "bottom": 1373,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone SE Gold",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["apple", "iphone", "se", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone SE/Device with Shadow/Apple iPhone SE Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone SE",
+    "frame": {
+      "top": 237,
+      "left": 64,
+      "bottom": 1373,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone SE Rose Gold",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["apple", "iphone", "se", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone SE/Device with Shadow/Apple iPhone SE Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone SE",
+    "frame": {
+      "top": 237,
+      "left": 64,
+      "bottom": 1373,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone SE Silver",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["apple", "iphone", "se", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone SE/Device with Shadow/Apple iPhone SE Space Gray.png",
+    "category": "Phones",
+    "device": "Apple iPhone SE",
+    "frame": {
+      "top": 237,
+      "left": 64,
+      "bottom": 1373,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone SE Space Gray",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["apple", "iphone", "se", "space", "gray"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone SE/Device/Apple iPhone SE Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone SE",
+    "frame": {
+      "top": 237,
+      "left": 64,
+      "bottom": 1373,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone SE Gold",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["apple", "iphone", "se", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone SE/Device/Apple iPhone SE Rose Gold.png",
+    "category": "Phones",
+    "device": "Apple iPhone SE",
+    "frame": {
+      "top": 237,
+      "left": 64,
+      "bottom": 1373,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone SE Rose Gold",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["apple", "iphone", "se", "rose", "gold"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone SE/Device/Apple iPhone SE Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone SE",
+    "frame": {
+      "top": 237,
+      "left": 64,
+      "bottom": 1373,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone SE Silver",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["apple", "iphone", "se", "silver"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone SE/Device/Apple iPhone SE Space Gray.png",
+    "category": "Phones",
+    "device": "Apple iPhone SE",
+    "frame": {
+      "top": 237,
+      "left": 64,
+      "bottom": 1373,
+      "right": 704,
+      "width": 640,
+      "height": 1136
+    },
+    "name": "Apple iPhone SE Space Gray",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["apple", "iphone", "se", "space", "gray"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone X/Device/Apple iPhone X Black.png",
+    "category": "Phones",
+    "device": "Apple iPhone X",
+    "frame": {
+      "top": 39,
+      "left": 46,
+      "bottom": 1472,
+      "right": 708,
+      "width": 662,
+      "height": 1433
+    },
+    "name": "Apple iPhone X Black",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "x", "black"]
+  },
+  {
+    "relPath": "Phones/Apple iPhone X/Device/Apple iPhone X Silver.png",
+    "category": "Phones",
+    "device": "Apple iPhone X",
+    "frame": {
+      "top": 25,
+      "left": 28,
+      "bottom": 801,
+      "right": 386,
+      "width": 358,
+      "height": 776
+    },
+    "name": "Apple iPhone X Silver",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["apple", "iphone", "x", "silver"]
+  },
+  {
+    "relPath": "Phones/Google Pixel/Device with Shadows/Google Pixel Quite Black.png",
+    "category": "Phones",
+    "device": "Google Pixel",
+    "frame": {
+      "top": 252,
+      "left": 62,
+      "bottom": 2172,
+      "right": 1142,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Google Pixel Quite Black",
+    "pixelRatio": 2.6,
+    "shadow": true,
+    "tags": ["google", "pixel", "quite", "black"]
+  },
+  {
+    "relPath": "Phones/Google Pixel/Device with Shadows/Google Pixel Really Blue.png",
+    "category": "Phones",
+    "device": "Google Pixel",
+    "frame": {
+      "top": 252,
+      "left": 62,
+      "bottom": 2172,
+      "right": 1142,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Google Pixel Really Blue",
+    "pixelRatio": 2.6,
+    "shadow": true,
+    "tags": ["google", "pixel", "really", "blue"]
+  },
+  {
+    "relPath": "Phones/Google Pixel/Device with Shadows/Google Pixel Very Silver.png",
+    "category": "Phones",
+    "device": "Google Pixel",
+    "frame": {
+      "top": 252,
+      "left": 62,
+      "bottom": 2172,
+      "right": 1142,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Google Pixel Very Silver",
+    "pixelRatio": 2.6,
+    "shadow": true,
+    "tags": ["google", "pixel", "very", "silver"]
+  },
+  {
+    "relPath": "Phones/Google Pixel/Device/Google Pixel Quite Black.png",
+    "category": "Phones",
+    "device": "Google Pixel",
+    "frame": {
+      "top": 252,
+      "left": 62,
+      "bottom": 2172,
+      "right": 1142,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Google Pixel Quite Black",
+    "pixelRatio": 2.6,
+    "shadow": false,
+    "tags": ["google", "pixel", "quite", "black"]
+  },
+  {
+    "relPath": "Phones/Google Pixel/Device/Google Pixel Really Blue.png",
+    "category": "Phones",
+    "device": "Google Pixel",
+    "frame": {
+      "top": 252,
+      "left": 62,
+      "bottom": 2172,
+      "right": 1142,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Google Pixel Really Blue",
+    "pixelRatio": 2.6,
+    "shadow": false,
+    "tags": ["google", "pixel", "really", "blue"]
+  },
+  {
+    "relPath": "Phones/Google Pixel/Device/Google Pixel Very Silver.png",
+    "category": "Phones",
+    "device": "Google Pixel",
+    "frame": {
+      "top": 252,
+      "left": 62,
+      "bottom": 2172,
+      "right": 1142,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Google Pixel Very Silver",
+    "pixelRatio": 2.6,
+    "shadow": false,
+    "tags": ["google", "pixel", "very", "silver"]
+  },
+  {
+    "relPath": "Phones/HTC One A9/Device with Shadow/HTC One A9 Black.png",
+    "category": "Phones",
+    "device": "HTC One A9",
+    "frame": {
+      "top": 293,
+      "left": 85,
+      "bottom": 2213,
+      "right": 1165,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One A9 Black",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["htc", "one", "a9", "black"]
+  },
+  {
+    "relPath": "Phones/HTC One A9/Device with Shadow/HTC One A9 White.png",
+    "category": "Phones",
+    "device": "HTC One A9",
+    "frame": {
+      "top": 293,
+      "left": 84,
+      "bottom": 2213,
+      "right": 1164,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One A9 White",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["htc", "one", "a9", "white"]
+  },
+  {
+    "relPath": "Phones/HTC One A9/Device/HTC One A9 Black.png",
+    "category": "Phones",
+    "device": "HTC One A9",
+    "frame": {
+      "top": 293,
+      "left": 80,
+      "bottom": 2213,
+      "right": 1160,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One A9 Black",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["htc", "one", "a9", "black"]
+  },
+  {
+    "relPath": "Phones/HTC One A9/Device/HTC One A9 White.png",
+    "category": "Phones",
+    "device": "HTC One A9",
+    "frame": {
+      "top": 293,
+      "left": 79,
+      "bottom": 2213,
+      "right": 1159,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One A9 White",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["htc", "one", "a9", "white"]
+  },
+  {
+    "relPath": "Phones/HTC One M8/Device with Shadow/HTC One M8 Black.png",
+    "category": "Phones",
+    "device": "HTC One M8",
+    "frame": {
+      "top": 267,
+      "left": 72,
+      "bottom": 2187,
+      "right": 1152,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One M8 Black",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["htc", "one", "m8", "black"]
+  },
+  {
+    "relPath": "Phones/HTC One M8/Device with Shadow/HTC One M8 Gold.png",
+    "category": "Phones",
+    "device": "HTC One M8",
+    "frame": {
+      "top": 267,
+      "left": 72,
+      "bottom": 2187,
+      "right": 1152,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One M8 Gold",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["htc", "one", "m8", "gold"]
+  },
+  {
+    "relPath": "Phones/HTC One M8/Device with Shadow/HTC One M8 Silver.png",
+    "category": "Phones",
+    "device": "HTC One M8",
+    "frame": {
+      "top": 267,
+      "left": 72,
+      "bottom": 2187,
+      "right": 1152,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One M8 Silver",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["htc", "one", "m8", "silver"]
+  },
+  {
+    "relPath": "Phones/HTC One M8/Device/HTC One M8 Black.png",
+    "category": "Phones",
+    "device": "HTC One M8",
+    "frame": {
+      "top": 267,
+      "left": 72,
+      "bottom": 2187,
+      "right": 1152,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One M8 Black",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["htc", "one", "m8", "black"]
+  },
+  {
+    "relPath": "Phones/HTC One M8/Device/HTC One M8 Gold.png",
+    "category": "Phones",
+    "device": "HTC One M8",
+    "frame": {
+      "top": 267,
+      "left": 72,
+      "bottom": 2187,
+      "right": 1152,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One M8 Gold",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["htc", "one", "m8", "gold"]
+  },
+  {
+    "relPath": "Phones/HTC One M8/Device/HTC One M8 Silver.png",
+    "category": "Phones",
+    "device": "HTC One M8",
+    "frame": {
+      "top": 267,
+      "left": 72,
+      "bottom": 2187,
+      "right": 1152,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "HTC One M8 Silver",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["htc", "one", "m8", "silver"]
+  },
+  {
+    "relPath": "Phones/Huawei P8/Device with Shadow/Huawei P8 Black.png",
+    "category": "Phones",
+    "device": "Huawei P8",
+    "frame": {
+      "top": 230,
+      "left": 100,
+      "bottom": 2150,
+      "right": 1180,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Huawei P8 Black",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["huawei", "p8", "black"]
+  },
+  {
+    "relPath": "Phones/Huawei P8/Device with Shadow/Huawei P8 White.png",
+    "category": "Phones",
+    "device": "Huawei P8",
+    "frame": {
+      "top": 230,
+      "left": 100,
+      "bottom": 2150,
+      "right": 1180,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Huawei P8 White",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["huawei", "p8", "white"]
+  },
+  {
+    "relPath": "Phones/Huawei P8/Device/Huawei P8 Black.png",
+    "category": "Phones",
+    "device": "Huawei P8",
+    "frame": {
+      "top": 230,
+      "left": 61,
+      "bottom": 2150,
+      "right": 1141,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Huawei P8 Black",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["huawei", "p8", "black"]
+  },
+  {
+    "relPath": "Phones/Huawei P8/Device/Huawei P8 White.png",
+    "category": "Phones",
+    "device": "Huawei P8",
+    "frame": {
+      "top": 230,
+      "left": 61,
+      "bottom": 2150,
+      "right": 1141,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Huawei P8 White",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["huawei", "p8", "white"]
+  },
+  {
+    "relPath": "Phones/Microsoft Lumia 950/Device with Shadow/Microsoft Lumia 950 Black.png",
+    "category": "Phones",
+    "device": "Microsoft Lumia 950",
+    "frame": {
+      "top": 366,
+      "left": 94,
+      "bottom": 2926,
+      "right": 1534,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Microsoft Lumia 950 Black",
+    "pixelRatio": 4,
+    "shadow": true,
+    "tags": ["microsoft", "lumia", "950", "black"]
+  },
+  {
+    "relPath": "Phones/Microsoft Lumia 950/Device with Shadow/Microsoft Lumia 950 White.png",
+    "category": "Phones",
+    "device": "Microsoft Lumia 950",
+    "frame": {
+      "top": 366,
+      "left": 94,
+      "bottom": 2926,
+      "right": 1534,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Microsoft Lumia 950 White",
+    "pixelRatio": 4,
+    "shadow": true,
+    "tags": ["microsoft", "lumia", "950", "white"]
+  },
+  {
+    "relPath": "Phones/Microsoft Lumia 950/Device/Microsoft Lumia 950 Black.png",
+    "category": "Phones",
+    "device": "Microsoft Lumia 950",
+    "frame": {
+      "top": 366,
+      "left": 93,
+      "bottom": 2926,
+      "right": 1533,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Microsoft Lumia 950 Black",
+    "pixelRatio": 4,
+    "shadow": false,
+    "tags": ["microsoft", "lumia", "950", "black"]
+  },
+  {
+    "relPath": "Phones/Microsoft Lumia 950/Device/Microsoft Lumia 950 White.png",
+    "category": "Phones",
+    "device": "Microsoft Lumia 950",
+    "frame": {
+      "top": 366,
+      "left": 93,
+      "bottom": 2926,
+      "right": 1533,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Microsoft Lumia 950 White",
+    "pixelRatio": 4,
+    "shadow": false,
+    "tags": ["microsoft", "lumia", "950", "white"]
+  },
+  {
+    "relPath": "Phones/Motorola Moto E/Device with Shadow/Motorola Moto E Black.png",
+    "category": "Phones",
+    "device": "Motorola Moto E",
+    "frame": {
+      "top": 185,
+      "left": 55,
+      "bottom": 1145,
+      "right": 595,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Motorola Moto E Black",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["motorola", "moto", "e", "black"]
+  },
+  {
+    "relPath": "Phones/Motorola Moto E/Device with Shadow/Motorola Moto E White.png",
+    "category": "Phones",
+    "device": "Motorola Moto E",
+    "frame": {
+      "top": 185,
+      "left": 55,
+      "bottom": 1145,
+      "right": 595,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Motorola Moto E White",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["motorola", "moto", "e", "white"]
+  },
+  {
+    "relPath": "Phones/Motorola Moto E/Device/Motorola Moto E Black.png",
+    "category": "Phones",
+    "device": "Motorola Moto E",
+    "frame": {
+      "top": 185,
+      "left": 55,
+      "bottom": 1145,
+      "right": 595,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Motorola Moto E Black",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["motorola", "moto", "e", "black"]
+  },
+  {
+    "relPath": "Phones/Motorola Moto E/Device/Motorola Moto E White.png",
+    "category": "Phones",
+    "device": "Motorola Moto E",
+    "frame": {
+      "top": 185,
+      "left": 55,
+      "bottom": 1145,
+      "right": 595,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Motorola Moto E White",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["motorola", "moto", "e", "white"]
+  },
+  {
+    "relPath": "Phones/Motorola Moto G/Device with Shadow/Motorola Moto G.png",
+    "category": "Phones",
+    "device": "Motorola Moto G",
+    "frame": {
+      "top": 189,
+      "left": 64,
+      "bottom": 1469,
+      "right": 784,
+      "width": 720,
+      "height": 1280
+    },
+    "name": "Motorola Moto G",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["motorola", "moto", "g"]
+  },
+  {
+    "relPath": "Phones/Motorola Moto G/Device/Motorola Moto G.png",
+    "category": "Phones",
+    "device": "Motorola Moto G",
+    "frame": {
+      "top": 189,
+      "left": 55,
+      "bottom": 1469,
+      "right": 775,
+      "width": 720,
+      "height": 1280
+    },
+    "name": "Motorola Moto G",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["motorola", "moto", "g"]
+  },
+  {
+    "relPath": "Phones/Nexus 4/Device with Shadow/Nexus 4.png",
+    "category": "Phones",
+    "device": "Nexus 4",
+    "frame": {
+      "top": 185,
+      "left": 41,
+      "bottom": 1465,
+      "right": 809,
+      "width": 768,
+      "height": 1280
+    },
+    "name": "Nexus 4",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["nexus", "4"]
+  },
+  {
+    "relPath": "Phones/Nexus 4/Device/Nexus 4.png",
+    "category": "Phones",
+    "device": "Nexus 4",
+    "frame": {
+      "top": 185,
+      "left": 41,
+      "bottom": 1465,
+      "right": 809,
+      "width": 768,
+      "height": 1280
+    },
+    "name": "Nexus 4",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["nexus", "4"]
+  },
+  {
+    "relPath": "Phones/Nexus 5X/Device with Shadow/Nexus 5x.png",
+    "category": "Phones",
+    "device": "Nexus 5X",
+    "frame": {
+      "top": 231,
+      "left": 53,
+      "bottom": 2151,
+      "right": 1133,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Nexus 5x",
+    "pixelRatio": 2.6,
+    "shadow": true,
+    "tags": ["nexus", "5x"]
+  },
+  {
+    "relPath": "Phones/Nexus 5X/Device/Nexus 5x.png",
+    "category": "Phones",
+    "device": "Nexus 5X",
+    "frame": {
+      "top": 231,
+      "left": 53,
+      "bottom": 2151,
+      "right": 1133,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Nexus 5x",
+    "pixelRatio": 2.6,
+    "shadow": false,
+    "tags": ["nexus", "5x"]
+  },
+  {
+    "relPath": "Phones/Nexus 6P/Device with Shadow/Nexus 6P.png",
+    "category": "Phones",
+    "device": "Nexus 6P",
+    "frame": {
+      "top": 329,
+      "left": 59,
+      "bottom": 2889,
+      "right": 1499,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Nexus 6P",
+    "pixelRatio": 3.5,
+    "shadow": true,
+    "tags": ["nexus", "6p"]
+  },
+  {
+    "relPath": "Phones/Nexus 6P/Device/Nexus 6P.png",
+    "category": "Phones",
+    "device": "Nexus 6P",
+    "frame": {
+      "top": 329,
+      "left": 59,
+      "bottom": 2889,
+      "right": 1499,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Nexus 6P",
+    "pixelRatio": 3.5,
+    "shadow": false,
+    "tags": ["nexus", "6p"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device with Shadow/Nokia 220 Black.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 Black",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "220", "black"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device with Shadow/Nokia 220 Blue.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 Blue",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "220", "blue"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device with Shadow/Nokia 220 Red.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 Red",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "220", "red"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device with Shadow/Nokia 220 White.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 White",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "220", "white"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device with Shadow/Nokia 220 Yellow.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 Yellow",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "220", "yellow"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device/Nokia 220 Black.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 Black",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "220", "black"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device/Nokia 220 Blue.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 Blue",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "220", "blue"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device/Nokia 220 Red.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 Red",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "220", "red"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device/Nokia 220 White.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 White",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "220", "white"]
+  },
+  {
+    "relPath": "Phones/Nokia 220/Device/Nokia 220 Yellow.png",
+    "category": "Phones",
+    "device": "Nokia 220",
+    "frame": {
+      "top": 96,
+      "left": 40,
+      "bottom": 416,
+      "right": 280,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 220 Yellow",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "220", "yellow"]
+  },
+  {
+    "relPath": "Phones/Nokia 230/Device with Shadow/Nokia 230 Black.png",
+    "category": "Phones",
+    "device": "Nokia 230",
+    "frame": {
+      "top": 67,
+      "left": 28,
+      "bottom": 387,
+      "right": 268,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 230 Black",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "230", "black"]
+  },
+  {
+    "relPath": "Phones/Nokia 230/Device with Shadow/Nokia 230 White.png",
+    "category": "Phones",
+    "device": "Nokia 230",
+    "frame": {
+      "top": 67,
+      "left": 28,
+      "bottom": 387,
+      "right": 268,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 230 White",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "230", "white"]
+  },
+  {
+    "relPath": "Phones/Nokia 230/Device/Nokia 230 Black.png",
+    "category": "Phones",
+    "device": "Nokia 230",
+    "frame": {
+      "top": 67,
+      "left": 28,
+      "bottom": 387,
+      "right": 268,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 230 Black",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "230", "black"]
+  },
+  {
+    "relPath": "Phones/Nokia 230/Device/Nokia 230 White.png",
+    "category": "Phones",
+    "device": "Nokia 230",
+    "frame": {
+      "top": 67,
+      "left": 28,
+      "bottom": 387,
+      "right": 268,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia 230 White",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "230", "white"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device with Shadow/Nokia Asha 230 230 White.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 230 White",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "asha", "230", "230", "white"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device with Shadow/Nokia Asha 230 Black.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Black",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "asha", "230", "black"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device with Shadow/Nokia Asha 230 Blue.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Blue",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "asha", "230", "blue"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device with Shadow/Nokia Asha 230 Green.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Green",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "asha", "230", "green"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device with Shadow/Nokia Asha 230 Red.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Red",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "asha", "230", "red"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device with Shadow/Nokia Asha 230 Yellow.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Yellow",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "asha", "230", "yellow"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device/Nokia Asha 230 Black.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Black",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "asha", "230", "black"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device/Nokia Asha 230 Blue.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Blue",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "asha", "230", "blue"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device/Nokia Asha 230 Green.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Green",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "asha", "230", "green"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device/Nokia Asha 230 Red.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Red",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "asha", "230", "red"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device/Nokia Asha 230 White.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 White",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "asha", "230", "white"]
+  },
+  {
+    "relPath": "Phones/Nokia Asha 230/Device/Nokia Asha 230 Yellow.png",
+    "category": "Phones",
+    "device": "Nokia Asha 230",
+    "frame": {
+      "top": 101,
+      "left": 39,
+      "bottom": 421,
+      "right": 279,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Nokia Asha 230 Yellow",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "asha", "230", "yellow"]
+  },
+  {
+    "relPath": "Phones/Nokia C3-00/Device with Shadow/Nokia C3-00.png",
+    "category": "Phones",
+    "device": "Nokia C3-00",
+    "frame": {
+      "top": 381,
+      "left": 190,
+      "bottom": 381,
+      "right": 190,
+      "width": 0,
+      "height": 0
+    },
+    "name": "Nokia C3-00",
+    "pixelRatio": 1,
+    "shadow": true,
+    "tags": ["nokia", "c3-00"]
+  },
+  {
+    "relPath": "Phones/Nokia C3-00/Device/Nokia C3-00.png",
+    "category": "Phones",
+    "device": "Nokia C3-00",
+    "frame": {
+      "top": 375,
+      "left": 190,
+      "bottom": 375,
+      "right": 190,
+      "width": 0,
+      "height": 0
+    },
+    "name": "Nokia C3-00",
+    "pixelRatio": 1,
+    "shadow": false,
+    "tags": ["nokia", "c3-00"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Grand Prime/Device with Shadow/Samsung Galaxy Grand Prime Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Grand Prime",
+    "frame": {
+      "top": 148,
+      "left": 73,
+      "bottom": 1108,
+      "right": 613,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Samsung Galaxy Grand Prime Black",
+    "pixelRatio": 1.5,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "grand", "prime", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Grand Prime/Device with Shadow/Samsung Galaxy Grand Prime Gold.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Grand Prime",
+    "frame": {
+      "top": 148,
+      "left": 73,
+      "bottom": 1108,
+      "right": 613,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Samsung Galaxy Grand Prime Gold",
+    "pixelRatio": 1.5,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "grand", "prime", "gold"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Grand Prime/Device with Shadow/Samsung Galaxy Grand Prime White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Grand Prime",
+    "frame": {
+      "top": 148,
+      "left": 73,
+      "bottom": 1108,
+      "right": 613,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Samsung Galaxy Grand Prime White",
+    "pixelRatio": 1.5,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "grand", "prime", "white"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Grand Prime/Device/Samsung Galaxy Grand Prime Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Grand Prime",
+    "frame": {
+      "top": 148,
+      "left": 47,
+      "bottom": 1108,
+      "right": 587,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Samsung Galaxy Grand Prime Black",
+    "pixelRatio": 1.5,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "grand", "prime", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Grand Prime/Device/Samsung Galaxy Grand Prime Gold.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Grand Prime",
+    "frame": {
+      "top": 148,
+      "left": 47,
+      "bottom": 1108,
+      "right": 587,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Samsung Galaxy Grand Prime Gold",
+    "pixelRatio": 1.5,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "grand", "prime", "gold"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Grand Prime/Device/Samsung Galaxy Grand Prime White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Grand Prime",
+    "frame": {
+      "top": 148,
+      "left": 47,
+      "bottom": 1108,
+      "right": 587,
+      "width": 540,
+      "height": 960
+    },
+    "name": "Samsung Galaxy Grand Prime White",
+    "pixelRatio": 1.5,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "grand", "prime", "white"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device with Shadow/Samsung Galaxy Note 5 Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 70,
+      "bottom": 2850,
+      "right": 1510,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 Black",
+    "pixelRatio": 3.5,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "note", "5", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device with Shadow/Samsung Galaxy Note 5 Gold.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 70,
+      "bottom": 2850,
+      "right": 1510,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 Gold",
+    "pixelRatio": 3.5,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "note", "5", "gold"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device with Shadow/Samsung Galaxy Note 5 Pink.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 70,
+      "bottom": 2850,
+      "right": 1510,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 Pink",
+    "pixelRatio": 3.5,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "note", "5", "pink"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device with Shadow/Samsung Galaxy Note 5 Silver Titanium.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 70,
+      "bottom": 2850,
+      "right": 1510,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 Silver Titanium",
+    "pixelRatio": 3.5,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "note", "5", "silver", "titanium"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device with Shadow/Samsung Galaxy Note 5 White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 70,
+      "bottom": 2850,
+      "right": 1510,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 White",
+    "pixelRatio": 3.5,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "note", "5", "white"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device/Samsung Galaxy Note 5 Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 66,
+      "bottom": 2850,
+      "right": 1506,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 Black",
+    "pixelRatio": 3.5,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "note", "5", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device/Samsung Galaxy Note 5 Gold.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 66,
+      "bottom": 2850,
+      "right": 1506,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 Gold",
+    "pixelRatio": 3.5,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "note", "5", "gold"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device/Samsung Galaxy Note 5 Pink.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 66,
+      "bottom": 2850,
+      "right": 1506,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 Pink",
+    "pixelRatio": 3.5,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "note", "5", "pink"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device/Samsung Galaxy Note 5 Silver Titanium.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 66,
+      "bottom": 2850,
+      "right": 1506,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 Silver Titanium",
+    "pixelRatio": 3.5,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "note", "5", "silver", "titanium"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Note 5/Device/Samsung Galaxy Note 5 White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Note 5",
+    "frame": {
+      "top": 290,
+      "left": 66,
+      "bottom": 2850,
+      "right": 1506,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy Note 5 White",
+    "pixelRatio": 3.5,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "note", "5", "white"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S Duos/Device with Shadow/Samsung Galaxy S Duos.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S Duos",
+    "frame": {
+      "top": 156,
+      "left": 48,
+      "bottom": 956,
+      "right": 528,
+      "width": 480,
+      "height": 800
+    },
+    "name": "Samsung Galaxy S Duos",
+    "pixelRatio": 1.5,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "s", "duos"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S Duos/Device/Samsung Galaxy S Duos.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S Duos",
+    "frame": {
+      "top": 156,
+      "left": 48,
+      "bottom": 956,
+      "right": 528,
+      "width": 480,
+      "height": 800
+    },
+    "name": "Samsung Galaxy S Duos",
+    "pixelRatio": 1.5,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "s", "duos"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S3/Device with Shadow/Samsung Galaxy S3.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S3",
+    "frame": {
+      "top": 158,
+      "left": 65,
+      "bottom": 1438,
+      "right": 785,
+      "width": 720,
+      "height": 1280
+    },
+    "name": "Samsung Galaxy S3",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "s3"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S3/Device/Samsung Galaxy S3.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S3",
+    "frame": {
+      "top": 158,
+      "left": 65,
+      "bottom": 1438,
+      "right": 785,
+      "width": 720,
+      "height": 1280
+    },
+    "name": "Samsung Galaxy S3",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "s3"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S5/Device with Shadow/Samsung Galaxy S5 Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S5",
+    "frame": {
+      "top": 247,
+      "left": 102,
+      "bottom": 2167,
+      "right": 1182,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Samsung Galaxy S5 Black",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "s5", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S5/Device with Shadow/Samsung Galaxy S5 White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S5",
+    "frame": {
+      "top": 247,
+      "left": 103,
+      "bottom": 2167,
+      "right": 1183,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Samsung Galaxy S5 White",
+    "pixelRatio": 3,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "s5", "white"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S5/Device/Samsung Galaxy S5 Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S5",
+    "frame": {
+      "top": 247,
+      "left": 79,
+      "bottom": 2167,
+      "right": 1159,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Samsung Galaxy S5 Black",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "s5", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S5/Device/Samsung Galaxy S5 White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S5",
+    "frame": {
+      "top": 247,
+      "left": 79,
+      "bottom": 2167,
+      "right": 1159,
+      "width": 1080,
+      "height": 1920
+    },
+    "name": "Samsung Galaxy S5 White",
+    "pixelRatio": 3,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "s5", "white"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S7/Device with Shadow/Samsung Galaxy S7 Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S7",
+    "frame": {
+      "top": 338,
+      "left": 73,
+      "bottom": 2898,
+      "right": 1513,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy S7 Black",
+    "pixelRatio": 4,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "s7", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S7/Device with Shadow/Samsung Galaxy S7 Gold.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S7",
+    "frame": {
+      "top": 338,
+      "left": 73,
+      "bottom": 2898,
+      "right": 1513,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy S7 Gold",
+    "pixelRatio": 4,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "s7", "gold"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S7/Device with Shadow/Samsung Galaxy S7 Silver.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S7",
+    "frame": {
+      "top": 338,
+      "left": 73,
+      "bottom": 2898,
+      "right": 1513,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy S7 Silver",
+    "pixelRatio": 4,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "s7", "silver"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S7/Device with Shadow/Samsung Galaxy S7 White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S7",
+    "frame": {
+      "top": 338,
+      "left": 73,
+      "bottom": 2898,
+      "right": 1513,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy S7 White",
+    "pixelRatio": 4,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "s7", "white"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S7/Device/Samsung Galaxy S7 Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S7",
+    "frame": {
+      "top": 338,
+      "left": 73,
+      "bottom": 2898,
+      "right": 1513,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy S7 Black",
+    "pixelRatio": 4,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "s7", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S7/Device/Samsung Galaxy S7 Gold.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S7",
+    "frame": {
+      "top": 338,
+      "left": 73,
+      "bottom": 2898,
+      "right": 1513,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy S7 Gold",
+    "pixelRatio": 4,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "s7", "gold"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S7/Device/Samsung Galaxy S7 Silver.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S7",
+    "frame": {
+      "top": 338,
+      "left": 73,
+      "bottom": 2898,
+      "right": 1513,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy S7 Silver",
+    "pixelRatio": 4,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "s7", "silver"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy S7/Device/Samsung Galaxy S7 White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy S7",
+    "frame": {
+      "top": 338,
+      "left": 73,
+      "bottom": 2898,
+      "right": 1513,
+      "width": 1440,
+      "height": 2560
+    },
+    "name": "Samsung Galaxy S7 White",
+    "pixelRatio": 4,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "s7", "white"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Y/Device with Shadow/Samsung Galaxy Y Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Y",
+    "frame": {
+      "top": 116,
+      "left": 37,
+      "bottom": 436,
+      "right": 277,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Samsung Galaxy Y Black",
+    "pixelRatio": 0.75,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "y", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Y/Device with Shadow/Samsung Galaxy Y White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Y",
+    "frame": {
+      "top": 116,
+      "left": 37,
+      "bottom": 436,
+      "right": 277,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Samsung Galaxy Y White",
+    "pixelRatio": 0.75,
+    "shadow": true,
+    "tags": ["samsung", "galaxy", "y", "white"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Y/Device/Samsung Galaxy Y Black.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Y",
+    "frame": {
+      "top": 116,
+      "left": 37,
+      "bottom": 436,
+      "right": 277,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Samsung Galaxy Y Black",
+    "pixelRatio": 0.75,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "y", "black"]
+  },
+  {
+    "relPath": "Phones/Samsung Galaxy Y/Device/Samsung Galaxy Y White.png",
+    "category": "Phones",
+    "device": "Samsung Galaxy Y",
+    "frame": {
+      "top": 116,
+      "left": 37,
+      "bottom": 436,
+      "right": 277,
+      "width": 240,
+      "height": 320
+    },
+    "name": "Samsung Galaxy Y White",
+    "pixelRatio": 0.75,
+    "shadow": false,
+    "tags": ["samsung", "galaxy", "y", "white"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Air 2/Device with Shadow/Apple iPad Air 2 Gold.png",
+    "category": "Tablets",
+    "device": "Apple iPad Air 2",
+    "frame": {
+      "top": 224,
+      "left": 112,
+      "bottom": 2272,
+      "right": 1648,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Air 2 Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "air", "2", "gold"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Air 2/Device with Shadow/Apple iPad Air 2 Silver.png",
+    "category": "Tablets",
+    "device": "Apple iPad Air 2",
+    "frame": {
+      "top": 224,
+      "left": 112,
+      "bottom": 2272,
+      "right": 1648,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Air 2 Silver",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "air", "2", "silver"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Air 2/Device with Shadow/Apple iPad Air 2 Space Gray.png",
+    "category": "Tablets",
+    "device": "Apple iPad Air 2",
+    "frame": {
+      "top": 224,
+      "left": 111,
+      "bottom": 2272,
+      "right": 1647,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Air 2 Space Gray",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "air", "2", "space", "gray"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Air 2/Device/Apple iPad Air 2 Gold.png",
+    "category": "Tablets",
+    "device": "Apple iPad Air 2",
+    "frame": {
+      "top": 224,
+      "left": 112,
+      "bottom": 2272,
+      "right": 1648,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Air 2 Gold",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "ipad", "air", "2", "gold"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Air 2/Device/Apple iPad Air 2 Silver.png",
+    "category": "Tablets",
+    "device": "Apple iPad Air 2",
+    "frame": {
+      "top": 224,
+      "left": 112,
+      "bottom": 2272,
+      "right": 1648,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Air 2 Silver",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "ipad", "air", "2", "silver"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Air 2/Device/Apple iPad Air 2 Space Gray.png",
+    "category": "Tablets",
+    "device": "Apple iPad Air 2",
+    "frame": {
+      "top": 224,
+      "left": 111,
+      "bottom": 2272,
+      "right": 1647,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Air 2 Space Gray",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "ipad", "air", "2", "space", "gray"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Mini 4/Device with Shadow/Apple iPad Mini 4 Gold.png",
+    "category": "Tablets",
+    "device": "Apple iPad Mini 4",
+    "frame": {
+      "top": 278,
+      "left": 114,
+      "bottom": 2326,
+      "right": 1650,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Mini 4 Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "mini", "4", "gold"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Mini 4/Device with Shadow/Apple iPad Mini 4 Silver.png",
+    "category": "Tablets",
+    "device": "Apple iPad Mini 4",
+    "frame": {
+      "top": 278,
+      "left": 114,
+      "bottom": 2326,
+      "right": 1650,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Mini 4 Silver",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "mini", "4", "silver"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Mini 4/Device with Shadow/Apple iPad Mini 4 Space Gray.png",
+    "category": "Tablets",
+    "device": "Apple iPad Mini 4",
+    "frame": {
+      "top": 278,
+      "left": 114,
+      "bottom": 2326,
+      "right": 1650,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Mini 4 Space Gray",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "mini", "4", "space", "gray"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Mini 4/Device/Apple iPad Mini 4 Gold.png",
+    "category": "Tablets",
+    "device": "Apple iPad Mini 4",
+    "frame": {
+      "top": 278,
+      "left": 96,
+      "bottom": 2326,
+      "right": 1632,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Mini 4 Gold",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "ipad", "mini", "4", "gold"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Mini 4/Device/Apple iPad Mini 4 Silver.png",
+    "category": "Tablets",
+    "device": "Apple iPad Mini 4",
+    "frame": {
+      "top": 278,
+      "left": 96,
+      "bottom": 2326,
+      "right": 1632,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Mini 4 Silver",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "ipad", "mini", "4", "silver"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Mini 4/Device/Apple iPad Mini 4 Space Gray.png",
+    "category": "Tablets",
+    "device": "Apple iPad Mini 4",
+    "frame": {
+      "top": 278,
+      "left": 96,
+      "bottom": 2326,
+      "right": 1632,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Apple iPad Mini 4 Space Gray",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "ipad", "mini", "4", "space", "gray"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro 10.5/Device with Shadow/Apple iPad Pro 10.5 Gold.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro 10.5",
+    "frame": {
+      "top": 186,
+      "left": 82,
+      "bottom": 2423,
+      "right": 1762,
+      "width": 1680,
+      "height": 2237
+    },
+    "name": "Apple iPad Pro 10.5 Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "pro", "10.5", "gold"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro 10.5/Device with Shadow/Apple iPad Pro 10.5 Rose Gold.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro 10.5",
+    "frame": {
+      "top": 186,
+      "left": 81,
+      "bottom": 2423,
+      "right": 1761,
+      "width": 1680,
+      "height": 2237
+    },
+    "name": "Apple iPad Pro 10.5 Rose Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "pro", "10.5", "rose", "gold"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro 10.5/Device with Shadow/Apple iPad Pro 10.5 Silver.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro 10.5",
+    "frame": {
+      "top": 186,
+      "left": 86,
+      "bottom": 2423,
+      "right": 1766,
+      "width": 1680,
+      "height": 2237
+    },
+    "name": "Apple iPad Pro 10.5 Silver",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "pro", "10.5", "silver"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro 10.5/Device with Shadow/Apple iPad Pro 10.5 Space Gray.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro 10.5",
+    "frame": {
+      "top": 186,
+      "left": 77,
+      "bottom": 2423,
+      "right": 1757,
+      "width": 1680,
+      "height": 2237
+    },
+    "name": "Apple iPad Pro 10.5 Space Gray",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "pro", "10.5", "space", "gray"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro/Device with Shadow/Apple iPad Pro Gold.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro",
+    "frame": {
+      "top": 216,
+      "left": 169,
+      "bottom": 2948,
+      "right": 2217,
+      "width": 2048,
+      "height": 2732
+    },
+    "name": "Apple iPad Pro Gold",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "pro", "gold"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro/Device with Shadow/Apple iPad Pro Silver.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro",
+    "frame": {
+      "top": 216,
+      "left": 169,
+      "bottom": 2948,
+      "right": 2217,
+      "width": 2048,
+      "height": 2732
+    },
+    "name": "Apple iPad Pro Silver",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "pro", "silver"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro/Device with Shadow/Apple iPad Pro Space Gray.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro",
+    "frame": {
+      "top": 216,
+      "left": 169,
+      "bottom": 2948,
+      "right": 2217,
+      "width": 2048,
+      "height": 2732
+    },
+    "name": "Apple iPad Pro Space Gray",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["apple", "ipad", "pro", "space", "gray"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro/Device/Apple iPad Pro Gold.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro",
+    "frame": {
+      "top": 216,
+      "left": 119,
+      "bottom": 2948,
+      "right": 2167,
+      "width": 2048,
+      "height": 2732
+    },
+    "name": "Apple iPad Pro Gold",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "ipad", "pro", "gold"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro/Device/Apple iPad Pro Silver.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro",
+    "frame": {
+      "top": 216,
+      "left": 119,
+      "bottom": 2948,
+      "right": 2167,
+      "width": 2048,
+      "height": 2732
+    },
+    "name": "Apple iPad Pro Silver",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "ipad", "pro", "silver"]
+  },
+  {
+    "relPath": "Tablets/Apple iPad Pro/Device/Apple iPad Pro Space Gray.png",
+    "category": "Tablets",
+    "device": "Apple iPad Pro",
+    "frame": {
+      "top": 216,
+      "left": 119,
+      "bottom": 2948,
+      "right": 2167,
+      "width": 2048,
+      "height": 2732
+    },
+    "name": "Apple iPad Pro Space Gray",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["apple", "ipad", "pro", "space", "gray"]
+  },
+  {
+    "relPath": "Tablets/Microsoft Surface 3/Device with Shadow/Microsoft Surface Pro 3.png",
+    "category": "Tablets",
+    "device": "Microsoft Surface 3",
+    "frame": {
+      "top": 117,
+      "left": 200,
+      "bottom": 1397,
+      "right": 2120,
+      "width": 1920,
+      "height": 1280
+    },
+    "name": "Microsoft Surface Pro 3",
+    "pixelRatio": 1.5,
+    "shadow": true,
+    "tags": ["microsoft", "surface", "pro", "3"]
+  },
+  {
+    "relPath": "Tablets/Microsoft Surface 3/Device/Microsoft Surface Pro 3.png",
+    "category": "Tablets",
+    "device": "Microsoft Surface 3",
+    "frame": {
+      "top": 117,
+      "left": 200,
+      "bottom": 1397,
+      "right": 2120,
+      "width": 1920,
+      "height": 1280
+    },
+    "name": "Microsoft Surface Pro 3",
+    "pixelRatio": 1.5,
+    "shadow": false,
+    "tags": ["microsoft", "surface", "pro", "3"]
+  },
+  {
+    "relPath": "Tablets/Microsoft Surface Pro 4/Device with Shadow/Microsoft Surface Pro 4.png",
+    "category": "Tablets",
+    "device": "Microsoft Surface Pro 4",
+    "frame": {
+      "top": 148,
+      "left": 230,
+      "bottom": 1972,
+      "right": 2966,
+      "width": 2736,
+      "height": 1824
+    },
+    "name": "Microsoft Surface Pro 4",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["microsoft", "surface", "pro", "4"]
+  },
+  {
+    "relPath": "Tablets/Microsoft Surface Pro 4/Device/Microsoft Surface Pro 4.png",
+    "category": "Tablets",
+    "device": "Microsoft Surface Pro 4",
+    "frame": {
+      "top": 148,
+      "left": 164,
+      "bottom": 1972,
+      "right": 2900,
+      "width": 2736,
+      "height": 1824
+    },
+    "name": "Microsoft Surface Pro 4",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["microsoft", "surface", "pro", "4"]
+  },
+  {
+    "relPath": "Tablets/Nexus 9/Device with Shadow/Nexus 9.png",
+    "category": "Tablets",
+    "device": "Nexus 9",
+    "frame": {
+      "top": 273,
+      "left": 132,
+      "bottom": 2321,
+      "right": 1668,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Nexus 9",
+    "pixelRatio": 2,
+    "shadow": true,
+    "tags": ["nexus", "9"]
+  },
+  {
+    "relPath": "Tablets/Nexus 9/Device/Nexus 9.png",
+    "category": "Tablets",
+    "device": "Nexus 9",
+    "frame": {
+      "top": 273,
+      "left": 96,
+      "bottom": 2321,
+      "right": 1632,
+      "width": 1536,
+      "height": 2048
+    },
+    "name": "Nexus 9",
+    "pixelRatio": 2,
+    "shadow": false,
+    "tags": ["nexus", "9"]
+  }
+]
